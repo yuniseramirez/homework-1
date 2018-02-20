@@ -218,9 +218,16 @@ What are IFRAMEs commonly used for?
 
 ## Writing Code
 
-### index.html
+### science.html
 
-Please modify the `index.html` file in this repository to make the resulting webpage look like this:
+Please modify the `science.html` file in this repository to make the resulting webpage look like this:
+
+[image]
+
+
+### olympics.html
+
+Please modify the `science.html` file in this repository to make the resulting webpage look like this:
 
 [image]
 
