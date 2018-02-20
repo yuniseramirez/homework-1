@@ -3,11 +3,20 @@
 This homework assignment covers the content that we discussed in class up until and including February 5.
 
 
-### 1. Understand Markdown
+## GitHub
+
+We will exlusively use GitHub for all assignments in this class. Therefore (and because it is broadly used in industry), you should familiarize yourself with GitHub and its features.
+
+### 1. Learn about GitHub
+
+Perform this "Hello World" exercise: https://guides.github.com/activities/hello-world/
+
+
+### 2. Understand Markdown
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a language for simple text formatting. Usually, markdown files end in `.md` (like this file, `README.md`).
 
-You will complete this homework assignment by modifying this Markdown file.
+You will complete this homework assignment by modifying this Markdown file (`README.md`).
 
 Take a look at these resources to understand Markdown basics:
 
@@ -15,10 +24,40 @@ Take a look at these resources to understand Markdown basics:
 * https://guides.github.com/features/mastering-markdown/
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Now, please edit this file by clicking on `README.md` in the list of files above, then click the pencil icon to edit it.
+
+### 3. Modify README
+
+Read about the `README.md` file: https://help.github.com/articles/about-readmes/
+
+Now, edit the `README.md` file in this homework repository by clicking the `README.md` file in the list of files:
+
+![README file](images/readme.png)
+
+Then click the pencil icon to edit it:
+
+![Edit button](./images/edit.png)
+
+Next, edit this line to add your name: **Your Name**
+
+Click the "Preview changes" tab to see your changes.
+
+When you are happy with your changes, click the "Commit changes" button at the bottom (optionally entering a commit title and description):
+
+![Commit](./images/commit.png)
+
+You should now see your name above (instead of "Your Name"). You can also see your change in the repository's [commit history]().
 
 
-### 2. Setup GitHub Pages
+### 4. LinkedIn profile URL
+
+[LinkedIn](linkedin.com) is a professional networking site used by almost all companies and recruiters. By establishing your professional profile now, to can begin to connect with other classmates and build your professional network.
+
+Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
+
+[My LinkedIn Profile](https://www.linkedin.com/in/.../)
+
+
+### 5. Setup GitHub Pages
 
 [GitHub Pages](https://pages.github.com/) is a feature of GitHub that lets you serve webpages directly from a GitHub repository.
 
@@ -27,26 +66,12 @@ You will need to do this once for each homework assignment and class project.
 * TODO
 
 
-### 3. What is your LinkedIn profile URL?
-
-[LinkedIn](linkedin.com) is a professional networking site used by almost all companies and recruiters. By establishing your professional profile now, to can begin to connect with other classmates and build your professional network.
-
-Please share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
-
-[My LinkedIn Profile](https://www.linkedin.com/in/.../)
-
 
 What’s a webpage?
 
-GitHub Education
-
 Reading
 
-Learn Markdown
 
-Pre-course survey results from Robert Domanski
-
-Preferred email address
 
 Website I like
 Website I don’t like
