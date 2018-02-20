@@ -68,10 +68,12 @@ You will need to do this once for each homework assignment and class project.
 
 ## The Web
 
+Please edit this file to add your answers to the following questions.
+
 
 ### URLs
 
-In the following URL: https://www.nsnsp.org/commitments?date=2017-12-09
+In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
 * What is the scheme/protocol?
 * What is the host?
@@ -216,21 +218,16 @@ What are IFRAMEs commonly used for?
 
 ## Writing Code
 
+### index.html
+
+Please modify the `index.html` file in this repository to make the resulting webpage look like this:
+
+[image]
 
 
-Superscript / Subscript
+### bugs.html
 
-bold, italic, hr, br, abbreviations
-
-Lists (ul, ol, definition, nested)
-
-Images (alt, storage / linkage)
-
-Comments
-
-Bug fixes
-
-
+Please modify the `bugs.html` file in this repository to fix the errors that exist in the file.
 
 
 ## Misc.
