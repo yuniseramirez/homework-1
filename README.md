@@ -83,7 +83,7 @@ Please edit this file to add your answers to the following questions.
 
 ### URLs
 
-In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
+#### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
 * What is the scheme/protocol?
 * What is the host?
@@ -92,7 +92,7 @@ In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 * What are the query parameters?
 * What is the fragment?
 
-In the following URL: `http://localhost:4000/admin?`
+#### 6. In the following URL: `http://localhost:4000/admin?`
 
 * What is the scheme/protocol?
 * What is the host?
@@ -101,7 +101,7 @@ In the following URL: `http://localhost:4000/admin?`
 * What are the query parameters?
 * What is the fragment?
 
-In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
+#### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
 * What is the scheme/protocol?
 * What is the host?
@@ -110,7 +110,7 @@ In the following URL: `http://www.lehman.edu/academics/mathematics-computer-scie
 * What are the query parameters?
 * What is the fragment?
 
-In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
+#### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
 * What is the scheme/protocol?
 * What is the host?
@@ -120,7 +120,7 @@ In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_varian
 * What is the fragment?
 
 
-### HTTPS
+### 9. HTTPS
 
 What does the S stand for in HTTPS?
 
@@ -137,27 +137,27 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 * https://developer.mozilla.org/en-US/docs/Web/Tutorials
 
 
-### What is a webpage?
+### 10. What is a webpage?
 
 *Your answer here.*
 
 
-### Webpage I like
+### 11. Webpage I like
 
 What's one webpage you like? Why?
 
 
-### Website I don’t like
+### 12. Website I don’t like
 
 What's one webpage you like? Why?
 
 
-### Resources
+### 13. Resources
 
 Where is a good place to look for information about HTML tags?
 
 
-### HTML Versions
+### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
 
@@ -166,24 +166,24 @@ What is XML?
 What is XHTML?
 
 
-### HTML
+### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
 
 Are HTML files interpreted or executed?
 
 
-### Browser versioning
+### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
 
 
-### HTML Validity
+### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
 
 
-### Accessibility
+### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
 
@@ -192,34 +192,34 @@ What types of people does accessibility concern?
 What is one tool you can use to verify the accessibility of your websites?
 
 
-### head / body
+### 19. head / body
 
 What is the `<head>` tag for?
 
 What is the `<body>` tag for?
 
 
-### Head…
+### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
 
 
-### Tables
+### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
 
 
-### Non-closing tags
+### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
 
 
-### Links
+### 23. Links
 
 How do you make a link open in a new window?
 
 
-### IFRAME
+### 24. IFRAME
 
 What is an IFRAME?
 
@@ -232,32 +232,32 @@ In this section, you'll modify a couple HTML files that have been started for yo
 
 Because you enabled GitHub Pages above, you can actually view these pages in your browser. Use the GitHub Pages URL that you noted above to open these pages in a web browser.
 
-### science.html
+### 25. science.html
 
 Please modify the [science.html](./science.html) file in this repository to make the resulting webpage look like this:
 
 ![Science webpage](images/science.png)
 
 
-### olympics.html
+### 26. olympics.html
 
 Please modify the [olympics.html](olympics.html) file in this repository to make the resulting webpage look like this:
 
 ![Olympics webpage](images/olympics.png)
 
-### bugs.html
+### 27. bugs.html
 
-Please modify the `bugs.html` file in this repository to fix the errors that exist in the file.
+Please modify the [bugs.html](bugs.html) file in this repository to fix the errors that exist in the file.
 
 
 ## Misc.
 
-### Pace check
+### 28. Pace check
 
 Class is going… too slow / just right / too fast.
 
 
-### Jobs
+### 29. Jobs
 
 Add a link to one web development job based in NYC:
 
