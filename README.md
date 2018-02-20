@@ -230,14 +230,14 @@ What are IFRAMEs commonly used for?
 
 ### science.html
 
-Please modify the `science.html` file in this repository to make the resulting webpage look like this:
+Please modify the [science.html](./science.html) file in this repository to make the resulting webpage look like this:
 
 ![Science webpage](./images/science.png)
 
 
 ### olympics.html
 
-Please modify the `science.html` file in this repository to make the resulting webpage look like this:
+Please modify the [olympics.html](olympics.html) file in this repository to make the resulting webpage look like this:
 
 ![Olympics webpage](./images/olympics.png)
 
