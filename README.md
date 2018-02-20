@@ -71,7 +71,7 @@ Enable GitHub Pages on the master branch:
 
 ![GitHub Pages](./images/gh-pages.png)
 
-After saving, note the public URL of your repository:
+After saving, note the public URL of your repository -- you will use this in the "Writing Code" section below:
 
 ![GitHub Pages URL](./images/gh-pages-url.png)
 
@@ -227,6 +227,10 @@ What are IFRAMEs commonly used for?
 
 
 ## Writing Code
+
+In this section, you'll modify a couple HTML files that have been started for you in this repository.
+
+Because you enabled GitHub Pages above, you can actually view these pages in your browser. Use the GitHub Pages URL that you noted above to open these pages in a web browser.
 
 ### science.html
 
