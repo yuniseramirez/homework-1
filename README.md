@@ -45,7 +45,7 @@ When you are happy with your changes, click the "Commit changes" button at the b
 
 ![Commit](./images/commit.png)
 
-You should now see your name above (instead of "Your Name"). You can also see your change in the repository's [commit history](./commits/master/README.md).
+You should now see your name above (instead of "Your Name"). You can also see your change in the repository's [commit history](/commits/).
 
 
 ### 4. LinkedIn profile URL
