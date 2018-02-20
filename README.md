@@ -45,7 +45,7 @@ When you are happy with your changes, click the "Commit changes" button at the b
 
 ![Commit](./images/commit.png)
 
-You should now see your name above (instead of "Your Name"). You can also see your change in the repository's [commit history](/commits/).
+You should now see your name above (instead of "Your Name"). You can also see your change in the repository's commit history.
 
 
 ### 4. LinkedIn profile URL
@@ -66,59 +66,182 @@ You will need to do this once for each homework assignment and class project.
 * TODO
 
 
-
-What’s a webpage?
-
-Reading
+## The Web
 
 
+### URLs
 
-Website I like
-Website I don’t like
+In the following URL: https://www.nsnsp.org/commitments?date=2017-12-09
 
-Advanced / extra credit…?
+* What is the scheme/protocol?
+* What is the host?
+* What is the port number?
+* What is the path?
+* What are the query parameters?
+* What is the fragment?
 
-Where to look for authoritative HTML/CSS info? Send on a hunt
+In the following URL: `http://localhost:4000/admin?`
 
-HTML should contain / convey ___ and CSS should contain / convey ___.
+* What is the scheme/protocol?
+* What is the host?
+* What is the port number?
+* What is the path?
+* What are the query parameters?
+* What is the fragment?
 
-Doctype, HTML versions, XML, XHTML
+In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-CSS ID/class plurality
+* What is the scheme/protocol?
+* What is the host?
+* What is the port number?
+* What is the path?
+* What are the query parameters?
+* What is the fragment?
 
-Accessibility 
+In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-Pace check
+* What is the scheme/protocol?
+* What is the host?
+* What is the port number?
+* What is the path?
+* What are the query parameters?
+* What is the fragment?
 
-Narrative
 
-Link to one web development job based in NYC
-* What do you still need to learn to meet the requirements?
+### HTTPS
 
-Accessibility 
+What does the S stand for in HTTPS?
 
-URL composition
+Why is HTTPS better than HTTP?
 
-Html / head / body
+Should all web pages use HTTPS?
 
-Tags that don’t have a closing pair?
 
-Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program? Interpreted or executed?
+## Webpages
 
-White space
+Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](https://isbndb.com/book/9781118008188) or similar information available from MDN here:
 
-Headings, paragraphs, super, sub, bold, italic, hr, br, abbreviations
+* https://developer.mozilla.org/en-US/docs/Web/HTML
+* https://developer.mozilla.org/en-US/docs/Web/Tutorials
+
+
+### What is a webpage?
+
+*Your answer here.*
+
+
+### Webpage I like
+
+What's one webpage you like? Why?
+
+
+### Website I don’t like
+
+What's one webpage you like? Why?
+
+
+### Resources
+
+Where is a good place to look for information about HTML tags?
+
+
+### HTML Versions
+
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+
+What is XML?
+
+What is XHTML?
+
+
+### HTML
+
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+
+Are HTML files interpreted or executed?
+
+
+### Browser versioning
+
+Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+
+
+### HTML Validity
+
+What is one tool that can tell you if you have written valid HTML?
+
+
+### Accessibility
+
+What does "Accessibility" mean in the context of web development?
+
+What types of people does accessibility concern?
+
+What is one tool you can use to verify the accessibility of your websites?
+
+
+### head / body
+
+What is the `<head>` tag for?
+
+What is the `<body>` tag for?
+
+
+### Head…
+
+What's the difference between `<head>`, `<header>`, and heading tags?
+
+
+### Tables
+
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+
+
+### Non-closing tags
+
+Which tags don't have a closing pair (e.g. `<br>`)?
+
+
+### Links
+
+How do you make a link open in a new window?
+
+
+### IFRAME
+
+What is an IFRAME?
+
+What are IFRAMEs commonly used for?
+
+
+## Writing Code
+
+
+
+Superscript / Subscript
+
+bold, italic, hr, br, abbreviations
 
 Lists (ul, ol, definition, nested)
 
-Links (other page, same page, new window)
-
 Images (alt, storage / linkage)
-
-Tables
 
 Comments
 
-Iframes 
-
 Bug fixes
+
+
+
+
+## Misc.
+
+### Pace check
+
+Class is going… too slow / just right / too fast.
+
+
+### Jobs
+
+Add a link to one web development job based in NYC:
+
+What do you still need to learn to meet the requirements?
