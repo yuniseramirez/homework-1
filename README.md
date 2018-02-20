@@ -63,7 +63,17 @@ Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do 
 
 You will need to do this once for each homework assignment and class project.
 
-* TODO
+Click the "Settings" tab in your repository:
+
+![Settings tab](./images/settings.png)
+
+Enable GitHub Pages on the master branch:
+
+![GitHub Pages](./images/gh-pages.png)
+
+After saving, note the public URL of your repository:
+
+![GitHub Pages URL](./images/gh-pages-url.png)
 
 
 ## The Web
@@ -222,14 +232,14 @@ What are IFRAMEs commonly used for?
 
 Please modify the `science.html` file in this repository to make the resulting webpage look like this:
 
-[image]
+![Science webpage](./images/science.png)
 
 
 ### olympics.html
 
 Please modify the `science.html` file in this repository to make the resulting webpage look like this:
 
-[image]
+![Olympics webpage](./images/olympics.png)
 
 
 ### bugs.html
