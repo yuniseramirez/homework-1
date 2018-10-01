@@ -85,12 +85,12 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? www.nsnsp.org
+* What is the port number? 443
+* What is the path? /committments
+* What are the query parameters? date=2017-12-09
+* What is the fragment?  n/a 
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
