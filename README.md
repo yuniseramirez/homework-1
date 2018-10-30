@@ -108,7 +108,7 @@ Please edit this file to add your answers to the following questions.
 * What is the port number?
 * What is the path? academics/mathematics-computer-science/index.php`
 * What are the query parameters?
-* What is the fragment?
+* What is the fragment? n/a
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
@@ -117,7 +117,7 @@ Please edit this file to add your answers to the following questions.
 * What is the port number?
 * What is the path? wiki/Greek_alphabet#Glyph_variants`
 * What are the query parameters?
-* What is the fragment?
+* What is the fragment?Glyph_variants
 
 
 ### 9. HTTPS
@@ -144,7 +144,7 @@ a hypertext document connected to the World Wide Web.
 
 ### 11. Webpage I like
 
-I like Twitter because it's efficient and quick. It works really well with a lot fo data.
+I like Twitter because it's efficient and quick. It works really well with a lot of data.
 
 
 ### 12. Website I don’t like
@@ -180,7 +180,7 @@ Which versions of Microsoft Internet Explorer support the `<nav>` tag?
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML? 
+What is one tool that can tell you if you have written valid HTML? text editor 
 
 
 ### 18. Accessibility
@@ -254,11 +254,12 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 
 ### 28. Pace check
 
-Class is going… too slow / just right / too fast.
+Class is going just right.
+
 
 
 ### 29. Jobs
 
-Add a link to one web development job based in NYC:
+Add a link to one web development job based in NYC:  https://campus.capitalone.com/job/mclean/technology-development-program-associate-18-19/1786/8903611
 
-What do you still need to learn to meet the requirements?
+What do you still need to learn to meet the requirements? Java/Spring, .Net, JavaScript, AngularJS, Python, Go and Swift 
